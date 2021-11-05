@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc84ac19ee8856a0f2879a6a1dfcd1225a9057088",
+  "SCAN_LINK": "https://polygonscan.com/address/0xc84ac19ee8856a0f2879a6a1dfcd1225a9057088",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cyber Yeti",
+  "SYMBOL": "Yeti",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1500000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
